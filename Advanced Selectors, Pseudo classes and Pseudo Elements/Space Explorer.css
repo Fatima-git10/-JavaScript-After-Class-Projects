@@ -1,0 +1,45 @@
+body {
+
+    background-color: black;
+
+    color: white;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+
+    color: rgb(107, 107, 223);
+
+    text-align: center;
+
+}
+
+ul li:hover {
+
+    color: aqua;
+
+}
+
+p::first-letter {
+
+    font-size: 50px;
+
+    color: orange;
+
+}
+
+a {
+
+    color: #8B949E;
+
+    text-decoration: none;
+
+}
+
+a:hover {
+
+    color: #1F6FEB;
+
+}
